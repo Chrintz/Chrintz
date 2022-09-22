@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrintz
 - 👀 I do marketing automation, web apps and data management between software solutions like Hubspot, Segment etc.
-- 🌱 I’m currently expanding on Node.js as i need it for custom implementations on a lot of our software solutions
+- 🌱 I work in Node.js and vanilla javascript.
 - 📫 You can reach me on bomelom@gmail.com
 
 <!---
